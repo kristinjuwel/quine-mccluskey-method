@@ -65,7 +65,6 @@ ScreenManager:
             font_name:"mamabear"
             color: '#000000'
         Label:
-            text: "by: Abram Dorado & Kristine Malimban"
             pos_hint: {'center_x': .52, 'center_y': .75} 
             size_hint: 1, 0.1
             font_size: self.width/43
